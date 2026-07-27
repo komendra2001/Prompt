@@ -1,0 +1,197 @@
+```text
+Act as an expert Git instructor, senior software engineer, DevOps engineer, and curriculum designer.
+
+Create a comprehensive learning roadmap to master Git from absolute beginner to expert level.
+
+Organize the learning path into the following stages:
+
+## 1. Beginner
+
+- What is Version Control?
+- Why Git exists
+- Local vs Centralized vs Distributed Version Control
+- Git vs GitHub vs GitLab vs Bitbucket
+- Installing Git (Windows, macOS, Linux)
+- Git configuration
+- Repository
+- Working Directory
+- Staging Area
+- Local Repository
+- Commit
+- HEAD
+- SHA hashes
+- Basic commands:
+  - git init
+  - git clone
+  - git status
+  - git add
+  - git commit
+  - git log
+  - git diff
+  - git show
+  - git restore
+  - git rm
+  - git mv
+  - git clean
+
+---
+
+## 2. Intermediate
+
+- Branches
+- checkout vs switch
+- Creating, renaming, deleting branches
+- Merge
+- Merge conflicts
+- Fast-forward merge
+- Three-way merge
+- Squash merge
+- Remote repositories
+- origin
+- upstream
+- fetch
+- pull
+- push
+- SSH
+- Personal Access Tokens
+- Pull Requests
+- Code Reviews
+- GitHub collaboration
+- Tags
+- Stash
+- Reflog
+- Reset
+- Revert
+- Cherry-pick
+- Amend
+- Bisect
+
+---
+
+## 3. Advanced
+
+- Interactive Rebase
+- Advanced Rebase
+- Git Hooks
+- Worktree
+- Submodules
+- Subtree
+- Git LFS
+- Sparse Checkout
+- rerere
+- Git Aliases
+- Git Internals
+  - Blob
+  - Tree
+  - Commit Object
+  - Tag Object
+  - Object Database
+  - Packfiles
+  - Index
+  - DAG
+- Plumbing Commands
+- Performance Optimization
+- Large Repositories
+- Monorepos
+- Disaster Recovery
+- Recover Lost Commits
+- Repository Migration
+- Git Security
+- Commit Signing (GPG)
+- Advanced Merge Strategies
+
+---
+
+## 4. Professional Git & GitHub Workflows
+
+- GitHub Flow
+- Git Flow
+- Trunk-Based Development
+- Feature Branch Workflow
+- Release Workflow
+- Hotfix Workflow
+- Monorepo Workflow
+- Open Source Workflow
+- CI/CD Integration
+- GitHub Actions
+- Protected Branches
+- Branch Policies
+- Issues
+- Projects
+- Discussions
+- Releases
+- Templates
+- GitHub CLI
+- Dependabot
+- Security Alerts
+
+---
+
+## 5. Open Source Contribution
+
+- Finding beginner-friendly repositories
+- Forking repositories
+- Syncing forks
+- Creating feature branches
+- Writing professional commit messages
+- Opening Pull Requests
+- Responding to code reviews
+- Keeping forks updated
+- Best practices for contributing to OSS
+
+---
+
+For **every topic**, recommend:
+
+- Best free YouTube videos or playlists
+- Best free online courses
+- Paid courses (only if they provide exceptional value)
+- Official Git documentation
+- Official GitHub documentation (when applicable)
+- Interactive learning websites
+- Practice websites
+- Books
+- Cheat sheets
+- Sample repositories
+- Hands-on exercises
+- Mini projects
+- Common interview questions
+- Estimated learning time
+- Difficulty level
+- Prerequisites
+
+---
+
+Also include:
+
+- A 30-day Git learning roadmap
+- A 90-day Git mastery roadmap
+- Daily practice schedule (30–60 minutes per day)
+- 20 beginner Git projects
+- 20 intermediate Git projects
+- 20 advanced real-world Git projects
+- 20 Git disaster recovery scenarios to practice
+- Common mistakes beginners make
+- Git best practices used by professional software teams
+- GitHub best practices
+- Resources for Git interview preparation
+- Frequently asked Git interview questions (Beginner, Intermediate, Advanced)
+- Git certification recommendations (if worthwhile)
+- Open-source contribution roadmap
+- Recommended developer tools that improve Git workflow (VS Code extensions, GitKraken, Lazygit, GitHub Desktop, etc.)
+
+---
+
+Present everything in well-formatted Markdown tables with the following columns wherever applicable:
+
+| Topic | Description | Best Free Resource | Official Documentation | Practice Resource | Project | Difficulty | Estimated Time | Prerequisites |
+
+Prioritize:
+1. Official documentation
+2. Free, high-quality resources
+3. Interactive learning
+4. Hands-on practice
+5. Real-world projects
+
+Keep explanations concise and use tokens efficiently. Avoid unnecessary repetition while ensuring complete coverage from beginner to mastery.
+```
