@@ -1,0 +1,365 @@
+Act as an expert Python instructor, senior software engineer, curriculum designer, and technical mentor.
+
+Create a comprehensive, structured, and up-to-date roadmap to learn Python from complete beginner to advanced professional level.
+
+Organize the learning path into the following stages:
+
+## 1. Beginner (Python Fundamentals)
+- Installing Python
+- VS Code / PyCharm setup
+- Running Python programs
+- Variables and data types
+- Input and output
+- Operators
+- Type conversion
+- Strings
+- Comments
+- Basic debugging
+- f-Strings
+- Basic math operations
+
+## 2. Control Flow
+- if, elif, else
+- Nested conditions
+- match-case
+- for loops
+- while loops
+- break
+- continue
+- pass
+- Enumerate
+- Range
+- Loop patterns
+
+## 3. Functions
+- Defining functions
+- Parameters
+- Return values
+- Scope
+- Default arguments
+- Keyword arguments
+- *args
+- **kwargs
+- Lambda functions
+- Recursion
+- Docstrings
+- Type hints
+
+## 4. Data Structures
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+- Strings
+- List comprehensions
+- Dictionary comprehensions
+- Nested data structures
+- Sorting
+- Searching
+- Collections module
+
+## 5. File Handling
+- Reading files
+- Writing files
+- CSV
+- JSON
+- Pickle
+- Pathlib
+- Working with directories
+- File compression
+
+## 6. Exception Handling
+- try
+- except
+- else
+- finally
+- raise
+- Assertions
+- Custom exceptions
+- Logging basics
+
+## 7. Object-Oriented Programming
+- Classes
+- Objects
+- Constructors
+- Instance variables
+- Class variables
+- Methods
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+- Composition
+- Magic methods
+- Dataclasses
+
+## 8. Modules & Packages
+- Importing modules
+- Creating packages
+- Virtual environments
+- pip
+- requirements.txt
+- pyproject.toml
+- Package management
+
+## 9. Intermediate Python
+- Iterators
+- Generators
+- Decorators
+- Closures
+- Context managers
+- Regular expressions
+- Functional programming
+- itertools
+- functools
+- collections
+
+## 10. Advanced Python
+- Asyncio
+- Threading
+- Multiprocessing
+- Concurrent programming
+- Memory management
+- Garbage collection
+- Profiling
+- Performance optimization
+- Type annotations
+- Metaclasses
+- Descriptors
+
+## 11. Data Structures & Algorithms
+- Arrays
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Graphs
+- Hash Tables
+- Heaps
+- Sorting algorithms
+- Searching algorithms
+- Recursion
+- Dynamic Programming
+- Greedy algorithms
+- Backtracking
+- Time & Space Complexity
+
+## 12. Testing & Code Quality
+- unittest
+- pytest
+- Mocking
+- Coverage
+- Black
+- Ruff
+- Flake8
+- mypy
+- PEP 8
+- Documentation
+
+## 13. Databases
+- SQLite
+- MySQL
+- PostgreSQL
+- SQL fundamentals
+- SQLAlchemy
+- ORM
+- Database design
+- CRUD operations
+
+## 14. APIs & Networking
+- HTTP
+- REST APIs
+- JSON
+- requests
+- Authentication
+- OAuth
+- JWT
+- FastAPI
+- WebSockets
+
+## 15. Web Development
+- Flask
+- Django
+- FastAPI
+- Templates
+- Authentication
+- Sessions
+- REST API development
+- Deployment basics
+
+## 16. Automation & Scripting
+- Selenium
+- BeautifulSoup
+- Requests
+- OpenPyXL
+- Pandas automation
+- Email automation
+- PDF automation
+- File automation
+- Task scheduling
+
+## 17. Data Science
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+- Data visualization
+- Data cleaning
+- Exploratory Data Analysis
+
+## 18. Machine Learning
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Regression
+- Classification
+- Clustering
+- Model evaluation
+- Feature engineering
+
+## 19. DevOps & Deployment
+- Git
+- GitHub
+- Docker
+- CI/CD
+- Linux basics
+- AWS basics
+- Azure basics
+- Render
+- Railway
+- Vercel
+- Environment variables
+- Logging
+- Monitoring
+
+## 20. Professional Python Development
+- Design Patterns
+- SOLID Principles
+- Clean Code
+- Software Architecture
+- System Design basics
+- Security best practices
+- Packaging
+- Publishing to PyPI
+- Code reviews
+- Agile workflows
+
+For EVERY topic, provide:
+
+- A short explanation
+- Learning objectives
+- Prerequisites
+- Estimated learning time
+- Difficulty level
+- Best free YouTube videos/playlists
+- Best free online courses
+- Best paid courses (only if exceptional)
+- Official Python documentation
+- Best books
+- Practice websites
+- Coding challenges
+- Exercises
+- Mini projects
+- Real-world projects
+- Common mistakes
+- Best practices
+- Interview questions
+- Cheat sheets
+- GitHub repositories for reference
+
+Also include:
+
+- A complete 30-day beginner roadmap
+- A complete 90-day intermediate roadmap
+- A complete 180-day professional roadmap
+- A 1-year mastery roadmap
+- Daily study schedules for:
+  - 30 minutes/day
+  - 1 hour/day
+  - 2 hours/day
+  - 4 hours/day
+- Weekly milestones
+- Monthly goals
+- Progress checkpoints
+
+Create project roadmaps including:
+
+- 20 Beginner Projects
+- 20 Intermediate Projects
+- 20 Advanced Projects
+- 20 Portfolio Projects
+- 20 Automation Projects
+- 20 Web Development Projects
+- 20 Data Science Projects
+- 20 Machine Learning Projects
+- 20 API Projects
+- 20 Open Source Contribution Ideas
+
+Include dedicated sections for:
+
+- Python for Automation
+- Python for Web Development
+- Python for Data Science
+- Python for Machine Learning
+- Python for AI
+- Python for Cybersecurity
+- Python for DevOps
+- Python for Cloud Computing
+- Python for Finance
+- Python for Game Development
+- Python for Desktop Applications
+
+Recommend:
+
+- Best IDEs
+- Best Extensions
+- Best Debugging Tools
+- Best Linters
+- Best Formatters
+- Best Package Managers
+- Best Python Libraries to Learn
+- Most Important Standard Library Modules
+
+Provide:
+
+- 100 essential Python interview questions
+- 100 coding interview problems
+- Top LeetCode problems for Python
+- HackerRank roadmap
+- Codewars roadmap
+- Project Euler roadmap
+
+Recommend:
+
+- Recognized certifications
+- Resume-building tips
+- Portfolio-building strategy
+- GitHub portfolio structure
+- Freelancing roadmap
+- Remote job roadmap
+- Open-source contribution roadmap
+- Python career paths and salary insights
+
+Present everything in well-organized Markdown tables containing:
+
+- Topic
+- Description
+- Learning Time
+- Difficulty
+- Prerequisites
+- Free Resources
+- Paid Resources
+- Documentation
+- Practice Resources
+- Projects
+- Exercises
+
+Prioritize:
+1. Official documentation
+2. Free, high-quality resources
+3. Project-based learning
+4. Modern Python 3.x best practices
+5. Industry-standard tools and libraries
+
+Avoid outdated resources and duplicate recommendations. Keep responses concise while maximizing useful information and use tokens efficiently.
