@@ -1,0 +1,55 @@
+Act as an expert Google Sheets instructor and curriculum designer.
+Create a comprehensive list of the best resources to learn Google Sheets from beginner to advanced level.
+Organize the learning path into the following stages:
+
+1. Beginner
+   * Google Sheets interface
+   * Creating and formatting spreadsheets
+   * Basic formulas and functions (SUM, AVERAGE, IF, COUNT, etc.)
+   * Sorting and filtering
+   * Data validation
+2. Intermediate
+   * Conditional formatting
+   * Named ranges
+   * Charts and dashboards
+   * Pivot tables
+   * Lookup functions (VLOOKUP, HLOOKUP, XLOOKUP, INDEX & MATCH)
+   * Text, Date, and Logical functions
+   * Array formulas
+3. Advanced
+   * QUERY function
+   * FILTER, UNIQUE, SORT, SEQUENCE
+   * Dynamic arrays
+   * Advanced dashboard creation
+   * Google Apps Script basics
+   * Automation
+   * Connecting Google Sheets with Forms
+   * Import functions (IMPORTXML, IMPORTHTML, IMPORTRANGE, IMPORTDATA)
+   * Data cleaning techniques
+   * Performance optimization
+
+For each topic, recommend:
+
+* The best free YouTube videos or playlists
+* Free online courses
+* Paid courses (if they are worth it)
+* Official Google documentation
+* Practice websites
+* Sample projects
+* Exercises to master the topic
+
+Also include:
+
+* A 30-day learning roadmap
+* A 90-day mastery roadmap
+* Daily practice schedule (30–60 minutes per day)
+* 20 beginner projects
+* 20 intermediate projects
+* 20 advanced real-world projects
+* Common mistakes beginners make
+* Tips to become job-ready using Google Sheets
+* Resources for interview preparation
+* Certifications that employers value
+
+Present everything in a well-formatted table with links, estimated learning time, difficulty level, and prerequisites. Prioritize free, high-quality resources whenever possible.
+Use tokens efficiently
